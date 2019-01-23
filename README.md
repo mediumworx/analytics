@@ -1,4 +1,4 @@
-# Analytics
+# Data Science for Business Users
 
 Mediumworx Analytics provides tutorial to democratize data science for business users (i.e., minimize usage of advanced mathematics topics) and alleviate personal frustration we have experienced on following tutorials and struggling to apply that same tutorial for our needs. In light of this, our mission is as follows:
 
