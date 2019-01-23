@@ -9,8 +9,8 @@ Provide both written tutorial and video tutorial on each topic to ensure all ste
 
 Tutorials that are available are:
 
-1. Forecasting 
-	1.1. Part 1 - Create Forecast using Excel 2016/2019
-  1.2. Part 2 - Create Forecast using Python
+- Forecasting 
+- 	Part 1 - Create Forecast using Excel 2016/2019
+- 	Part 2 - Create Forecast using Python
   
 
