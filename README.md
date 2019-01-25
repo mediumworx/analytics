@@ -15,8 +15,8 @@ Forecasting
 -   Part 3 - Extend Forecast (Python) Extend Forecast to include what-if analysis capabilities 
 
 Web Scrapping
--   Part 1 - Scrapping data from website(s)
--   Part 2 - Advanced topics on scrapping date from website(s) - behind protected wall and corporate proxy issues
+-   Part 1 - Scrapping data from the website(s)
+-   Part 2 - Advanced topics on scrapping data from website(s) - website data behind the protected wall (not hacking - assumes you have username and password) and resolving company proxy issues
 
 Image Recogintion
 -   Part 1 - Detecting whether or not there is signature (i.e., hand written text) on the document
