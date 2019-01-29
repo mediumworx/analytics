@@ -7,12 +7,12 @@ Mediumworx Analytics provides tutorial to democratize data science for business 
 - Clearly state the prerequisites at beginning of the tutorial. We will try to provide additional information on those prerequisites
 - Provide both written tutorial and video tutorial on each topic to ensure all steps are easy to follow and clearly illustrated
 
-Tutorials that are available are:
+Tutorials that are available are as follows. Please refer to Projects tab to status on these tutorials.
 
 Forecasting 
-- 	Part 1 - Create Forecast using Excel 2016/2019 (Completed)
+- 	Part 1 - Create Forecast using Excel 2016/2019
 - 	Part 2 - Create Forecast using Excel 2016/2019 - Advanced Topics
-- 	Part 3 - Create Forecast using Python (Work In Progress)
+- 	Part 3 - Create Forecast using Python
 - 	Part 4 - Create Forecast using Python - Advanced Topics
 -   Part 5 - Extend Forecast (Python) Extend Forecast to include what-if analysis capabilities 
 -   Part 6 - Extend Forecast (Python) Extend Forecast to include what-if analysis capabilities - Advanced Topics
