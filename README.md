@@ -11,8 +11,11 @@ Tutorials that are available are:
 
 Forecasting 
 - 	Part 1 - Create Forecast using Excel 2016/2019 (Completed)
-- 	Part 2 - Create Forecast using Python (Work In Progress)
--   Part 3 - Extend Forecast (Python) Extend Forecast to include what-if analysis capabilities 
+- 	Part 2 - Create Forecast using Excel 2016/2019 - Advanced Topics
+- 	Part 3 - Create Forecast using Python (Work In Progress)
+- 	Part 4 - Create Forecast using Python - Advanced Topics
+-   Part 5 - Extend Forecast (Python) Extend Forecast to include what-if analysis capabilities 
+-   Part 6 - Extend Forecast (Python) Extend Forecast to include what-if analysis capabilities - Advanced Topics
 
 Web Scrapping
 -   Part 1 - Scrapping data from the website(s)
