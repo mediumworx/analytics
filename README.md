@@ -9,7 +9,7 @@ Mediumworx Analytics provides tutorial to democratize data science for business 
 
 Tutorials that are available are as follows. Please refer to Projects tab to status on these tutorials.
 
-Forecasting 
+Forecasting: 
 - 	Part 1 - Create Forecast using Excel 2016/2019
 - 	Part 2 - Create Forecast using Excel 2016/2019 - Advanced Topics
 - 	Part 3 - Create Forecast using Python
@@ -17,11 +17,15 @@ Forecasting
 -   Part 5 - Extend Forecast (Python) Extend Forecast to include what-if analysis capabilities 
 -   Part 6 - Extend Forecast (Python) Extend Forecast to include what-if analysis capabilities - Advanced Topics
 
-Web Scrapping
+Text Classification (Natural Language Processing):
+-   Part 1 - Sentiment Analysis - Derive rating from 1 to 5 where 5 is highest based on comments
+-   Part 2 - Classification Analysis - Classify comments to one or more categories
+
+Web Scrapping:
 -   Part 1 - Scrapping data from the website(s)
 -   Part 2 - Advanced topics on scrapping data from website(s) - website data behind the protected wall (not hacking - assumes you have username and password) and resolving company proxy issues
 
-Image Recogintion
+Image Recogintion:
 -   Part 1 - Detecting whether or not there is signature (i.e., hand written text) on the document
 
 
