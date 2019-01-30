@@ -18,7 +18,7 @@ Forecasting:
 -   Part 6 - Extend Forecast (Python) Extend Forecast to include what-if analysis capabilities - Advanced Topics
 
 Text Classification (Natural Language Processing):
--   Part 1 - Sentiment Analysis - Derive rating from 1 to 5 where 5 is highest based on comments
+-   Part 1 - Sentiment Analysis - Derive rating of 1 to 5 where 5 is highest based on comments
 -   Part 2 - Classification Analysis - Classify comments to one or more categories
 
 Web Scrapping:
