@@ -7,7 +7,7 @@ Mediumworx Analytics provides tutorial to democratize data science for business 
 - Clearly state the prerequisites at beginning of the tutorial. We will try to provide additional information on those prerequisites
 - Provide both written tutorial and video tutorial on each topic to ensure all steps are easy to follow and clearly illustrated
 
-Tutorials that are available are as follows. Please refer to Projects tab to status on these tutorials.
+Tutorials that are available are as follows. Please refer to Projects tab for status on these tutorials.
 
 Forecasting: 
 - 	Part 1 - Create Forecast using Excel 2016/2019
