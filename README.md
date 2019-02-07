@@ -11,11 +11,11 @@ Tutorials that are available are as follows. Please refer to Projects tab for st
 
 Forecasting: 
 - 	Part 1 - Create Forecast using Excel 2016/2019
-- 	Part 2 - Create Forecast using Excel 2016/2019 - Advanced Topics
+- 	Part 2 - Fine-Tune Forecast using Excel 2016/2019
 - 	Part 3 - Create Forecast using Python
-- 	Part 4 - Create Forecast using Python - Advanced Topics
--   Part 5 - Extend Forecast (Python) Extend Forecast to include what-if analysis capabilities 
--   Part 6 - Extend Forecast (Python) Extend Forecast to include what-if analysis capabilities - Advanced Topics
+- 	Part 4 - Fine-Tune Forecast using Python
+-   Part 5 - Extend Forecast (Python) to include what-if analysis capabilities 
+-   Part 6 - Fine-Tune Extended Forecast (Python) to include what-if analysis capabilities
 
 Text Classification (Natural Language Processing):
 -   Part 1 - Sentiment Analysis - Derive rating of 1 to 5 where 5 is highest based on comments
