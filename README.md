@@ -18,7 +18,7 @@ Forecasting:
 -   Part 6 - Fine-Tune Extended Forecast (Python) to include what-if analysis capabilities
 
 Natural Language Processing:
--   Part 1 - Text Classification - Derive rating of 1 to 5 where 5 is highest based on comments
+-   Part 1 - Text Classification
 -   Part 2 - Sentiment Analysis
 -   Part 3 - Named-entity recognition
 
