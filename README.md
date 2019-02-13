@@ -17,7 +17,7 @@ Forecasting:
 -   Part 5 - Extend Forecast (Python) to include what-if analysis capabilities 
 -   Part 6 - Fine-Tune Extended Forecast (Python) to include what-if analysis capabilities
 
-Natural Language Processing:
+Natural Language Processing - Text Classification:
 -   Part 1 - Develop Text Classification Model
 -   Part 2 - Fine-Tune Text Classification Model
 -   Part 3 - Deploy Text Classification Model
