@@ -18,9 +18,12 @@ Forecasting:
 -   Part 6 - Fine-Tune Extended Forecast (Python) to include what-if analysis capabilities
 
 Natural Language Processing - Text Classification:
--   Part 1 - Develop Text Classification Model
--   Part 2 - Fine-Tune Text Classification Model
--   Part 3 - Deploy Text Classification Model
+-   Part 1 - Develop Text Classification Model using fastText
+-   Part 2 - Fine-Tune Text Classification Model using fastText
+-   Part 3 - Deploy Text Classification Model using fastText
+-   Part 4 - Develop Text Classification Model using pytext
+-   Part 5 - Fine-Tune Text Classification Model using pytext
+-   Part 6 - Deploy Text Classification Model using pytext
 
 Web Scrapping:
 -   Part 1 - Scrapping data from the website(s)
