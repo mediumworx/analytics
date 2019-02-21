@@ -25,6 +25,9 @@ Natural Language Processing - Text Classification:
 -   Part 5 - Fine-Tune Text Classification Model using pytext
 -   Part 6 - Deploy Text Classification Model using pytext
 
+Natural Language Processing - Detect Intent and Fufill Intent:
+-   Part 1 - Develop Intent-Slot Model using pytext to detect intent and fulfill intent
+
 Web Scrapping:
 -   Part 1 - Scrapping data from the website(s)
 -   Part 2 - Advanced topics on scrapping data from website(s) - website data behind the protected wall (not hacking - assumes you have username and password) and resolving company proxy issues
