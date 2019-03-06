@@ -14,8 +14,10 @@ Forecasting:
 - 	Part 2 - Fine-Tune Forecast using Excel 2016/2019
 - 	Part 3 - Create Forecast using Python
 - 	Part 4 - Fine-Tune Forecast using Python
--   Part 5 - Extend Forecast (Python) to include what-if analysis capabilities 
--   Part 6 - Fine-Tune Extended Forecast (Python) to include what-if analysis capabilities
+- 	Part 5 - Advance Topics in Creating Forecast using Python
+-   Part 6 - Extend Forecast (Python) to include what-if analysis capabilities 
+-   Part 7 - Fine-Tune Extended Forecast (Python) to include what-if analysis capabilities
+-   Part 8 - Advance Topics in Extended Forecast (Python) to include what-if analysis capabilities
 
 Natural Language Processing - Text Classification:
 -   Part 1 - Develop Text Classification Model using fastText
@@ -32,7 +34,9 @@ Web Scrapping:
 -   Part 1 - Scrapping data from the website(s)
 -   Part 2 - Advanced topics on scrapping data from website(s) - website data behind the protected wall (not hacking - assumes you have username and password) and resolving company proxy issues
 
-Image Recogintion:
--   Part 1 - Detecting whether or not there is signature (i.e., hand written text) on the document
+Computer Vision - OCR Paper Form:
+-   Part 1 - Develop Image Classification Model to detect which Form we need to OCR
+-   Part 2 - OCR the Form using Tesseract OCR and Microsoft Computer Vision API
+-   Part 3 - Deploy OCR Application
 
 
